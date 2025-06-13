@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="Path_253" data-name="Path 253" transform="translate(-4 -4)" fill="none" stroke-linecap="round">
+    <path d="M5,16H8v3h2V14H5ZM8,8H5v2h5V5H8Zm6,11h2V16h3V14H14ZM16,8V5H14v5h5V8Z" stroke="none"/>
+    <path d="M 16 19 L 16 16 L 19 16 L 19 14 L 14 14 L 14 19 L 16 19 M 10 19 L 10 14 L 5 14 L 5 16 L 8 16 L 8 19 L 10 19 M 19 10 L 19 8 L 16 8 L 16 5 L 14 5 L 14 10 L 19 10 M 10 10 L 10 5 L 8 5 L 8 8 L 5 8 L 5 10 L 10 10 M 17 20 L 13 20 L 13 13 L 20 13 L 20 17 L 17 17 L 17 20 Z M 11 20 L 7 20 L 7 17 L 4 17 L 4 13 L 11 13 L 11 20 Z M 20 11 L 13 11 L 13 4 L 17 4 L 17 7 L 20 7 L 20 11 Z M 11 11 L 4 11 L 4 7 L 7 7 L 7 4 L 11 4 L 11 11 Z" stroke="none" fill="#262e3c"/>
+  </g>
+</svg>

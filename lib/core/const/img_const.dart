@@ -1,0 +1,14 @@
+const String healthProviderImg = "assets/img/health_provider_vector.png";
+const String healthCalorieImg = "assets/img/health_calorie_img.png";
+const String healthPeriodImg = "assets/img/health_period_img.png";
+const String healthWorkoutImg = "assets/img/health_workout_img.png";
+const String pushUpsImg = "assets/img/push_ups_img.png";
+const String trackPeriodImg = "assets/img/track_period_img.png";
+const String trackPregnancyImg = "assets/img/track_pregnancy_img.png";
+const String diarrheaImg = "assets/img/diarrhea_img.png";
+const String vomitImg = "assets/img/vomit_img.png";
+const String soreBreastImg = "assets/img/sore_breast_img.png";
+const String noAppetiteImg = "assets/img/no_appetite_img.png";
+const String fetusImg = "assets/img/fetus_img.png";
+const String logo = "assets/img/logo.jpg";
+const String pdf = 'assets/img/pdf.png';

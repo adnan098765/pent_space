@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="73.059" height="60.396" viewBox="0 0 73.059 60.396">
+  <g id="logo" transform="translate(-168 -40.199)">
+    <g id="left" transform="translate(168 40.199)">
+      <ellipse id="Ellipse_5" data-name="Ellipse 5" cx="9.689" cy="9.343" rx="9.689" ry="9.343" transform="translate(11.765 0)" fill="#dbf3fe"/>
+      <path id="Subtraction_2" data-name="Subtraction 2" d="M74.384-2223.34h0A25.428,25.428,0,0,1,70-2237.662a25.318,25.318,0,0,1,7.337-17.915A24.739,24.739,0,0,1,95.049-2263a24.733,24.733,0,0,1,17.712,7.421,25.32,25.32,0,0,1,7.337,17.918,25.409,25.409,0,0,1-4.384,14.32,24.988,24.988,0,0,0-20.665-11.016,24.985,24.985,0,0,0-20.665,11.018Z" transform="translate(-70 2283.736)" fill="#dbf3fe"/>
+    </g>
+    <g id="right" transform="translate(193.051 43.66)">
+      <circle id="Ellipse_6" data-name="Ellipse 6" cx="7.613" cy="7.613" r="7.613" transform="translate(16.472 0)" fill="#4fbffb"/>
+      <path id="Subtraction_1" data-name="Subtraction 1" d="M74.2-2225.427h0a23.9,23.9,0,0,1-4.2-13.568,23.845,23.845,0,0,1,7.03-16.975A23.853,23.853,0,0,1,94-2263a23.848,23.848,0,0,1,16.973,7.03,23.848,23.848,0,0,1,7.032,16.975,23.875,23.875,0,0,1-4.2,13.568,24.029,24.029,0,0,0-19.805-10.437,24.018,24.018,0,0,0-19.8,10.433Z" transform="translate(-70.001 2280.276)" fill="#4ca0e5"/>
+    </g>
+  </g>
+</svg>

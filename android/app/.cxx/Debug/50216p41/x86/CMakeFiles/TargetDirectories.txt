@@ -1,0 +1,2 @@
+D:/Web Dev/pent_space/android/app/.cxx/Debug/50216p41/x86/CMakeFiles/edit_cache.dir
+D:/Web Dev/pent_space/android/app/.cxx/Debug/50216p41/x86/CMakeFiles/rebuild_cache.dir

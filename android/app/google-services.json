@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "895918500928",
+    "project_id": "pentspace-9061d",
+    "storage_bucket": "pentspace-9061d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895918500928:android:cba88e140cea7f002983a5",
+        "android_client_info": {
+          "package_name": "com.theapptitude.pentspace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANshK8uVeE_hsAwat89vQk7uHS7GEomhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
